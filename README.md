@@ -6,6 +6,8 @@ Two rather simple games, but based on the Mac OS X Interface. This approach show
 
 3 slots, each has a set of pictures. The aim of the game is to get 3 the same pictures. In my game each slot is the simple folder in Cover Flow mode and in contrast WI the original game the movement of the slots is horizontal.
 
+[See on Vimeo](https://vimeo.com/40103163)
+
 ### How to play
 
 Open Terminal
@@ -31,6 +33,8 @@ Now you can play. Ideally with the trackpad.
 ## Dice game
 
 Very simple. Normal folder in Preview mode shows previews of the image files, two in our case. Script copes such two images randomly and gives a combination of two dices.
+
+[See on Vimeo](https://vimeo.com/40102765)
 
 ### How to play
 
