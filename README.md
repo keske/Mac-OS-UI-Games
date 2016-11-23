@@ -9,11 +9,15 @@ Two rather simple games, but based on the Mac OS X Interface. This approach show
 ### How to play
 
 Open Terminal
+
 ```$ cd path-to-game/```
 
 Open 3 folders and place them on below the other.
+
 ```$ open first/```
+
 ```$ open second/```
+
 ```$ open third/```
 
 Run game.php script. After that pictures from the source folder will be randomly copied 600 times to the folders first, second mad third;
@@ -28,12 +32,14 @@ Now you can play. Ideally with the trackpad.
 
 Very simple. Normal folder in Preview mode shows previews of the image files, two in our case. Script copes such two images randomly and gives a combination of two dices.
 
-How to play
+### How to play
 
 Open folder and set Preview mode;
-Open Terminal
-```$ cd path-to-game/```
+
+Open Terminal `$ cd path-to-game/`
+
 Run the game (`$ php game.php`);
+
 Each roll is a script run.
 
 [Download game (34Kb)](https://github.com/keske/Mac-OS-UI-Games/blob/master/dicegame.zip?raw=true)
